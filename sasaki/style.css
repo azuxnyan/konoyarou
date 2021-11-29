@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: purple;
+    background-color: white;
+    text-align: center;
+    font-family: Monotype Corsiva;
+    font-size: 80px;
+}
+p {
+    color: purple;
+    font-family: cursive;
+    font-size: 50px;
+    text-align: center;
+    border-bottom-style: dotted;
+}
+img {
+    width: 60%;
+    height: auto;
+}
+#mainlogo {
+    background-color: white;
+    width: 300px;
+    padding:2px;
+    text-align: center;
+    margin: 0 auto;
+}
+#sablogo {
+    width: 200px;
+    padding:2px;
+    margin-top: auto;
+    margin-left: 700px;
+    margin-bottom: auto;
+    text-align: center;
+}
+.button_send {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: auto;
+}
+button {
+    font-size: 20px;
+    font-family: fantasy;
+    background-color: rgb(169, 112, 216);
+    color: purple;
+}
+#test {
+    color: purple;
+    text-align: center;
+    font-family: cursive;
+    font-size: 50px;
+}
+#form {
+    width: 200px;
+    height: 40px;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+    margin: 0 auto;
+}
+input {
+    height: 40px;
+}
+footer {
+    color: purple;
+    border-top-style: dotted;
+}
